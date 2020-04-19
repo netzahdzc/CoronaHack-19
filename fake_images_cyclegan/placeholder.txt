@@ -1,0 +1,1 @@
+An empty directory for saving generated files during training.
